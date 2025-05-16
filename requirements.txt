@@ -3,3 +3,4 @@ langchain_community
 openai
 chromadb
 pypdf
+tiktoken
